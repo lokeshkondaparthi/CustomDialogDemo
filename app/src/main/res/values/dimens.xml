@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_text_view_size">25sp</dimen>
+    <dimen name="add_pic_heading">22sp</dimen>
+    <dimen name="_40sdp">40dp</dimen>
+</resources>
